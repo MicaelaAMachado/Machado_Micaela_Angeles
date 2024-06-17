@@ -1,5 +1,5 @@
 # Curso de programación full stack
-## Subtítulo: MÓDULO 2 - Repositorio y WorkFlow
+## MÓDULO 2 - Repositorio y WorkFlow
 ### Silicon Misiones - <https://siliconmisiones.gob.ar/>
  
 **Autor:** Micaela Angeles Machado
